@@ -18,5 +18,5 @@ class Solution:
                 
         return max_profit
 s=Solution()
-num = s.stockBuySell([3, 2,1,0])
+num = s.stockBuySell([1, 2,1,0])
 print(num)

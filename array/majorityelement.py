@@ -15,4 +15,4 @@ class Solution:
         return candidate
 
 s = Solution()
-print(s.majorityElement([2, 2, 1, 1, 1, 2, 2])) 
+print(s.majorityElement([2, 2, 1, 1, 1, 2, 3])) 

@@ -21,5 +21,5 @@ class Solution:
 
 s = Solution()
 
-num = s.rotateArrayByOne([3, 4, 5, 6], 2)
+num = s.rotateArrayByOne([3, 4, 5, 6], 3)
 print(num)

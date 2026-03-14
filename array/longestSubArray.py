@@ -22,5 +22,5 @@ class Solution:
 
 
 s=Solution()
-f=s.longest_subarray_simple( [-3, 2, 1],15)
+f=s.longest_subarray_simple( [10, 5, 2, 1, 9,7],15)
 print(f)
